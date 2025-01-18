@@ -1,9 +1,9 @@
 public class Main {
     public static void main(String[] args) {
-        System.out.println("");
+        System.out.println("master");
 
 
         System.out.println("");
-        System.out.println("Hell world!");
+        System.out.println("");
     }
 }
